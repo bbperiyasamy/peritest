@@ -3,3 +3,4 @@ Peri added 2/23/2019
 Peri added after tag v 1.0
 After merge to bitbucket v1.2
 After tag v.2
+addedd for git checkout -- . s
